@@ -22,16 +22,20 @@ namespace HW8_06_04
 
                          case 3:
                               {
-                        System.Console.WriteLine("$ " + mn.eur(Som));
+                        System.Console.WriteLine("E " + mn.eur(Som));
                         System.Console.WriteLine("som " + mn.eursom(Som));
                          }break;
 
                          case 4:
                               {
-                        System.Console.WriteLine("$ " + mn.rub(Som));
+                        System.Console.WriteLine("P " + mn.rub(Som));
                         System.Console.WriteLine("som " + mn.rubsom(Som));
                          }break;
                     }
+                    /////////////////////////////////////////////////////////
+               Emploee E = new Emploee() { lastname = "Ashurov", name = "Sangali", position="builder", payment = 1500 };
+            System.Console.WriteLine(E.PaynemtwithProc());
+
                     Console.ReadKey();
         }
     }
@@ -73,6 +77,18 @@ namespace HW8_06_04
             }   
         }
            
+               class Emploee
+    {
+        public string name { get; set; }
+        public string lastname { get; set; }
+        public double payment { get; set; }
+        public string position{get;set;}
+        public double PaynemtwithProc()
+        {
+            return payment * 0.14;
+        }
+           
+           }
                                           
 
 }
