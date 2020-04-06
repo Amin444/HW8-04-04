@@ -1,0 +1,13 @@
+D:\programming\Projects AlifC#\HW8-06-04\bin\Debug\netcoreapp3.1\HW8-06-04.exe
+D:\programming\Projects AlifC#\HW8-06-04\bin\Debug\netcoreapp3.1\HW8-06-04.deps.json
+D:\programming\Projects AlifC#\HW8-06-04\bin\Debug\netcoreapp3.1\HW8-06-04.runtimeconfig.json
+D:\programming\Projects AlifC#\HW8-06-04\bin\Debug\netcoreapp3.1\HW8-06-04.runtimeconfig.dev.json
+D:\programming\Projects AlifC#\HW8-06-04\bin\Debug\netcoreapp3.1\HW8-06-04.dll
+D:\programming\Projects AlifC#\HW8-06-04\bin\Debug\netcoreapp3.1\HW8-06-04.pdb
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.csprojAssemblyReference.cache
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.csproj.CoreCompileInputs.cache
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.AssemblyInfoInputs.cache
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.AssemblyInfo.cs
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.dll
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.pdb
+D:\programming\Projects AlifC#\HW8-06-04\obj\Debug\netcoreapp3.1\HW8-06-04.genruntimeconfig.cache
